@@ -13,8 +13,8 @@ docker images
 ~~~
 
 When you run a Docker image using `docker run` you are creating a container
-from that instance. This can be illustrated by creating a container container
-that sleep for 60 seconds. The flag `--detach` means the Docker process will
+from that instance. This can be illustrated by creating a container
+that sleeps for 60 seconds. The flag `--detach` means the Docker process will
 run in the background and you may still continue to type in the terminal.
 
 ~~~ bash
